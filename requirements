@@ -1,0 +1,5 @@
+jupyter notebook or any IDE which runs python lang
+
+packages needed..!
+
+pip install opencv-python scipy numpy
