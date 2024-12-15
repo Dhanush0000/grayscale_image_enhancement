@@ -3,9 +3,9 @@ import cv2
 from scipy import ndimage
 
 # Path to the input image
-input_image_path = "C:/Users/dhanu/OneDrive/Desktop/image3.jpg"
+input_image_path = "File_Path"
 # Path to save the output image
-output_image_path = "Results/image2_processed.jpg"
+output_image_path = "Results.jpg"
 
 # Create RESULTS directory if it doesn't exist
 os.makedirs(os.path.dirname(output_image_path), exist_ok=True)
